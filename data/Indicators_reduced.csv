@@ -1,0 +1,233 @@
+,CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value
+5026275,Arab World,ARB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.72449969733611
+5026788,Caribbean small states,CSS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,9.692960267791962
+5027295,Central Europe and the Baltics,CEB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.911131207182351
+5027870,East Asia & Pacific (all income levels),EAS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.85954848739331
+5028456,East Asia & Pacific (developing only),EAP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.302499353704519
+5029230,Euro area,EMU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.13248299990191
+5029798,Europe & Central Asia (all income levels),ECS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.54133422629917
+5030462,Europe & Central Asia (developing only),ECA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.4127074041852
+5031318,European Union,EUU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.06979787027619
+5031899,Fragile and conflict affected situations,FCS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.8586288462196
+5032389,Heavily indebted poor countries (HIPC),HPC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.230193317551096
+5032961,High income,HIC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,11.0702804825437
+5033557,High income: nonOECD,NOC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,11.6603932570965
+5034136,High income: OECD,OEC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,10.9778370949351
+5034730,Latin America & Caribbean (all income levels),LCN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.9333291759501297
+5035402,Latin America & Caribbean (developing only),LAC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.38417560728642
+5036268,Least developed countries: UN classification,LDC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.268707273387085
+5036842,Low & middle income,LMY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.1031744474373104
+5037638,Low income,LIC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.270964490008672
+5038407,Lower middle income,LMC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.5089926650977
+5039190,Middle East & North Africa (all income levels),MEA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.962865313004969
+5039739,Middle East & North Africa (developing only),MNA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.87821927364453
+5040528,Middle income,MIC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.42440790514306
+5041315,North America,NAC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,16.731985801731902
+5041849,OECD members,OED,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,9.90716840566788
+5042441,Other small states,OSS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.54809671563533
+5042950,Pacific island small states,PSS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.09799974602997
+5043389,Small states,SST,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.45979099177518
+5043923,South Asia,SAS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.40899707611236
+5044712,Sub-Saharan Africa (all income levels),SSF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.8309411188638809
+5045321,Sub-Saharan Africa (developing only),SSA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.82359608016772
+5046127,Upper middle income,UMC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.71056353588949
+5046920,World,WLD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.944648930261019
+5047563,Afghanistan,AFG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.425262104940417
+5048422,Albania,ALB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.6070377102568898
+5049346,Algeria,DZA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.3160378920663
+5050297,Andorra,ADO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.9686854699608896
+5050525,Angola,AGO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.3540075295675502
+5051317,Antigua and Barbuda,ATG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.8238043379617
+5051859,Argentina,ARG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.56204851225823
+5052623,Armenia,ARM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.67165692267883
+5053556,Aruba,ABW,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,23.922412101710897
+5053946,Australia,AUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,16.519209916694802
+5054644,Austria,AUT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.769983422793371
+5055409,Azerbaijan,AZE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.6473791469432
+5056394,"Bahamas, The",BHS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.19984401885954
+5056960,Bahrain,BHR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,17.947329814228603
+5057581,Bangladesh,BGD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.372017165838757
+5058511,Barbados,BRB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.58017761812104
+5059006,Belarus,BLR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.68251039797319
+5059972,Belgium,BEL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,8.849398302495059
+5060726,Belize,BLZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.6709043023393602
+5061627,Benin,BEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.509962225664154
+5062507,Bermuda,BMU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.07721021002416
+5062928,Bhutan,BTN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.766205619422981
+5063832,Bolivia,BOL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.59949903941542
+5064796,Bosnia and Herzegovina,BIH,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.196652149747799
+5065732,Botswana,BWA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.32334500642674
+5066618,Brazil,BRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.19139356376845
+5067585,Brunei Darussalam,BRN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,24.3920133786297
+5068121,Bulgaria,BGR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.71438250987163
+5069106,Burkina Faso,BFA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.119980559825133
+5069955,Burundi,BDI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0213499260634489
+5070838,Cabo Verde,CPV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.8590614327922951
+5071725,Cambodia,KHM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.308073151562941
+5072714,Cameroon,CMR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.2680917928895049
+5073641,Canada,CAN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,14.1358133791149
+5074236,Cayman Islands,CYM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,10.3049310710498
+5074491,Central African Republic,CAF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0631278135947735
+5075305,Chad,TCD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0438304243635328
+5076119,Chile,CHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.61644538016156
+5076941,China,CHN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.71030199087886
+5077851,Colombia,COL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.56062909881097
+5078883,Comoros,COM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.220233472817373
+5079628,"Congo, Dem. Rep.",ZAR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.050302687534911
+5080469,"Congo, Rep.",COG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.5380983785504739
+5081327,Costa Rica,CRI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.7049744950915
+5082333,Cote d'Ivoire,CIV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.312877702632263
+5083206,Croatia,HRV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.80153001129275
+5083975,Cuba,CUB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.1723150914420097
+5084627,Cyprus,CYP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.73537582255401
+5085375,Czech Republic,CZE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,10.4310881349318
+5086148,Denmark,DNK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.24832871740999
+5086836,Djibouti,DJI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.561940931477949
+5087492,Dominica,DMA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.74614156466205
+5088277,Dominican Republic,DOM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.18290788799199
+5089323,Ecuador,ECU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.35401738651458
+5090312,"Egypt, Arab Rep.",EGY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.63511522475978
+5091308,El Salvador,SLV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.10399857445029
+5092256,Equatorial Guinea,GNQ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,8.9072415363595
+5092715,Eritrea,ERI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.108718364579018
+5093401,Estonia,EST,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,14.0498825181421
+5094180,Ethiopia,ETH,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0839431166461619
+5095086,Faeroe Islands,FRO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,11.7212117462674
+5095339,Fiji,FJI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.42481324805984
+5096107,Finland,FIN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,10.1640460986379
+5096858,France,FRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.18504342392799
+5097531,French Polynesia,PYF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.16795268439279
+5097791,Gabon,GAB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.41816574927503
+5098505,"Gambia, The",GMB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.2410984169563869
+5099383,Georgia,GEO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.769150523604
+5100371,Germany,DEU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,8.91783284592949
+5101116,Ghana,GHA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.404379797695834
+5102044,Greece,GRC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.55605776856022
+5102700,Greenland,GRL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,12.440341008964698
+5102873,Grenada,GRD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.4081374321880697
+5103721,Guatemala,GTM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.748055056454528
+5104732,Guinea,GIN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.2294234245650389
+5105580,Guinea-Bissau,GNB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.146810683420286
+5106295,Guyana,GUY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.35772202840916
+5107103,Haiti,HTI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.217962047888149
+5107908,Honduras,HND,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.1037450530833302
+5108858,"Hong Kong SAR, China",HKG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.69526853894451
+5109536,Hungary,HUN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.862989931433139
+5110307,Iceland,ISL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.89682897929244
+5111048,India,IND,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.6628734828669098
+5111995,Indonesia,IDN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.303780982809509
+5112901,"Iran, Islamic Rep.",IRN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.80214509349436
+5113723,Iraq,IRQ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.20163513007514
+5114295,Ireland,IRL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.8807593262882305
+5115071,Israel,ISR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,8.95241353112365
+5115753,Italy,ITA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.70255761383033
+5116527,Jamaica,JAM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.8726556926748903
+5117461,Japan,JPN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,9.29183430343302
+5118178,Jordan,JOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.60114706358194
+5119146,Kazakhstan,KAZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,15.8100975441818
+5120117,Kenya,KEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.327569171129451
+5120948,Kiribati,KIR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.5956220978005389
+5121332,"Korea, Dem. Rep.",PRK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.98718211203856
+5121618,"Korea, Rep.",KOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,11.840756866690302
+5122885,Kuwait,KWT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,28.1026617530789
+5123514,Kyrgyz Republic,KGZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.19959162949262
+5124528,Lao PDR,LAO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.1889105058671329
+5125404,Latvia,LVA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.786801436513601
+5126180,Lebanon,LBN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.6683125079609
+5127102,Lesotho,LSO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.08226960820483
+5127920,Liberia,LBR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.2184250120233139
+5128701,Libya,LBY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.204914344123349
+5129065,Liechtenstein,LIE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.4050962038481498
+5129301,Lithuania,LTU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.53755851412512
+5130057,Luxembourg,LUX,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,20.8978116975694
+5130741,"Macao SAR, China",MAC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.13306090195031
+5131375,"Macedonia, FYR",MKD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.51921014111123
+5132333,Madagascar,MDG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.1129928053896909
+5133239,Malawi,MWI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0792314846186132
+5134133,Malaysia,MYS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.898823573468209
+5135081,Maldives,MDV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.92776392572944
+5135817,Mali,MLI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0799563786058226
+5136702,Malta,MLT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.03432163894414
+5137320,Marshall Islands,MHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.95420719057498
+5137687,Mauritania,MRT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.6272254637992131
+5138478,Mauritius,MUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.1270708174039705
+5139492,Mexico,MEX,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.87610761080744
+5140400,"Micronesia, Fed. Sts.",FSM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.24033592330589
+5140791,Moldova,MDA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.39882179311941
+5141936,Mongolia,MNG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.9151465310462905
+5142924,Montenegro,MNE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.14554758345308
+5143866,Morocco,MAR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.73791554669125
+5144865,Mozambique,MOZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.131189805492051
+5145790,Myanmar,MMR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.2002852121396219
+5146379,Namibia,NAM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.23916048891129
+5147073,Nepal,NPL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.159474454709674
+5148037,Netherlands,NLD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,10.0644897398765
+5148697,New Caledonia,NCL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,15.1732952755906
+5148944,New Zealand,NZL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.124050866788321
+5149611,Nicaragua,NIC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.8435419549649459
+5150462,Niger,NER,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0839581777578064
+5151344,Nigeria,NGA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.537497560078966
+5152252,Norway,NOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,9.19287906857298
+5152998,Oman,OMN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,20.2038945134942
+5153681,Pakistan,PAK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.9411711250776528
+5154582,Palau,PLW,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,10.8554304571484
+5154909,Panama,PAN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.6252762441067703
+5155858,Papua New Guinea,PNG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.746895234112231
+5156561,Paraguay,PRY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.841915242121446
+5157609,Peru,PER,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.7832331442343
+5158709,Philippines,PHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.8678453433512341
+5159633,Poland,POL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,8.33578670557733
+5160414,Portugal,PRT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.709849624345019
+5161482,Qatar,QAT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,44.0189263670224
+5162111,Romania,ROM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.21056012429912
+5163109,Russian Federation,RUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,12.647328232506302
+5163858,Rwanda,RWA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0628741973256297
+5164759,Samoa,WSM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.25211007608011
+5165701,Sao Tome and Principe,STP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.587909256438739
+5166412,Saudi Arabia,SAU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,18.0724507178889
+5167064,Senegal,SEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.588334149509437
+5168094,Serbia,SRB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.7991149969056295
+5169049,Seychelles,SYC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.835706362004089
+5169647,Sierra Leone,SLE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.152044167890243
+5170422,Singapore,SGP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.32015143623281
+5171092,Slovak Republic,SVK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.367545917444919
+5171842,Slovenia,SVN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.504259702276309
+5172592,Solomon Islands,SLB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.368304169270601
+5173232,Somalia,SOM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.0587068801132291
+5173722,South Africa,ZAF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,9.25721647223847
+5175009,Spain,ESP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.79076423425033
+5175776,Sri Lanka,LKA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.7299208395227371
+5176701,St. Kitts and Nevis,KNA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.05096418732782
+5177224,St. Lucia,LCA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.27042358794721
+5178028,St. Vincent and the Grenadines,VCT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.1799233590327503
+5178798,Sudan,SDN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.349548724216747
+5179649,Suriname,SUR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.64991336144231
+5180201,Swaziland,SWZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.864988312997234
+5181018,Sweden,SWE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,5.5184214812387005
+5181782,Switzerland,CHE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.62522992397501
+5182493,Syrian Arab Republic,SYR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.7369909434886
+5183137,Tajikistan,TJK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.358947629748805
+5184046,Tanzania,TZA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.154934900364361
+5184999,Thailand,THA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.53449173353441
+5185956,Timor-Leste,TMP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.1636480803147469
+5186521,Togo,TGO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.319443621625301
+5187437,Tonga,TON,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.983561958770787
+5188137,Trinidad and Tobago,TTO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,37.140054240742
+5188662,Tunisia,TUN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.4024556390413903
+5189611,Turkey,TUR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,4.383104516251859
+5190616,Turkmenistan,TKM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,12.183666583638
+5191104,Turks and Caicos Islands,TCA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.01014908437608
+5191490,Uganda,UGA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.1108865755047049
+5192469,Ukraine,UKR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.26235196177316
+5193463,United Arab Emirates,ARE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,20.4338376195602
+5194000,United Kingdom,GBR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,7.085732086027781
+5194727,United States,USA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,17.0202163384029
+5195425,Uruguay,URY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,2.29620068466244
+5196179,Uzbekistan,UZB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,3.91492126628356
+5196911,Vanuatu,VUT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.59126577254461
+5197671,"Venezuela, RB",VEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,6.4163335811843005
+5198435,Vietnam,VNM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,1.97188917349727
+5199322,West Bank and Gaza,WBG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.5724068773234681
+5199936,"Yemen, Rep.",YEM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.9199676170025592
+5200687,Zambia,ZMB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.212449644529525
+5201543,Zimbabwe,ZWE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2011,0.6916978965166789
